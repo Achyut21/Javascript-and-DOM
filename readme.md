@@ -9,7 +9,7 @@ A web page that displays Airbnb listings in San Francisco using JavaScript fetch
 
 ## Live Demo
 
-[View Live Site](to-do)
+[View Live Site]([Link](https://achyut21.github.io/Javascript-and-DOM/))
 
 ## Technologies
 
